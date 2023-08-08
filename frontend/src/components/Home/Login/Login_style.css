@@ -1,0 +1,33 @@
+.login {
+    width: 400px;
+    background: #c6ad7169;
+    border: 1px solid #03285f99;
+    box-shadow: 0 2px 40px rgb(0 0 10 / 64%), 0 8px 16px rgb(0 10 0 / 34%);
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+    margin-top: 150px;
+    margin-left:350px ;
+    
+}
+
+.login > form input {
+    border-radius: 20px;
+    border: 2px solid lightgrey;
+    outline: none;
+    color: #1d2129;
+    margin: 2% 0;
+    width: 90%;
+    padding: 12px;
+    font-size: 16px;
+    font-family: cursive;
+}
+.h-1{
+    color: #0a2f79;
+    text-shadow: 2px 4px 10px  ;
+}
+.error{
+    color: rgb(177, 30, 30);
+    font-family: cursive;
+}
